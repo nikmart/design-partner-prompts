@@ -1,6 +1,6 @@
 # Design partner prompt pack
 
-**Website with copy buttons:** https://nikmart.github.io/design-partner-prompts/
+**Website with copy buttons:** https://nikmartelaro.com/design-partner-prompts/
 
 These prompts make your AI agent work like a design partner. It interviews you about the app you want, sketches layouts with you, writes down what to build, and then builds it. It works the way I approach design projects with clients: understand the work first, sketch early, be honest about what's real, prove the risky parts before building on them, and leave the decisions to you.
 
