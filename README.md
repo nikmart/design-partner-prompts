@@ -56,3 +56,11 @@ These prompts make your AI agent work like a design partner. It interviews you a
 - Never paste keys into the chat. The agent will tell you where to put them.
 
 The stack details in `agents/builder.md` were current in November 2026. The builder is told to check the current docs, because these libraries change quickly.
+
+## License
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You can use, share and adapt these prompts for any purpose, including commercial work, as long as you give credit. For example:
+
+> Based on [Design Partner Prompts](https://nikmartelaro.com/design-partner-prompts/) by Nik Martelaro, CC BY 4.0.
+
+The full license text is in [LICENSE](LICENSE).
